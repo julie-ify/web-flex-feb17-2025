@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.toppings {
+	padding: 5px 10px;
+	border: 1px solid black;
+	border-radius: 8px;
+	background-color: rgb(177, 175, 175);
+}
+
+.toggle {
+	background-color: aquamarine;
+}
