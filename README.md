@@ -7,3 +7,4 @@
 - [W22D4 - Imposter Syndrome](https://github.com/julie-ify/web-flex-feb17-2025/tree/main/imposter-syndrome)
 - [W23D4 - Advanced Topic](https://github.com/julie-ify/web-flex-feb17-2025/tree/main/w23d4)
 - [W24D2 - Rails Review](https://github.com/julie-ify/web-flex-feb17-2025/tree/main/w24d2)
+- [W24D2 - Advanced Topic](https://github.com/julie-ify/web-flex-feb17-2025/tree/main/w24d4)
